@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Heredia-RUG</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Heredia-RUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bioestadistica</title>
+      <link>/tags/bioestadistica/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/bioestadistica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material</title>
+      <link>/tags/material/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuniones</title>
+      <link>/tags/reuniones/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/reuniones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talleres</title>
+      <link>/tags/talleres/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/talleres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Una</title>
+      <link>/tags/una/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/una/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

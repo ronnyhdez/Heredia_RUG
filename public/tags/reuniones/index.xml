@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reuniones on Heredia-RUG</title>
+    <link>/tags/reuniones/</link>
+    <description>Recent content in Reuniones on Heredia-RUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/reuniones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reuniones del 2017 en la UNA</title>
+      <link>/post/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/post/migrate-from-jekyll/</guid>
+      <description>Esta iniciativa nació en la Universidad Nacional a manera de &amp;ldquo;estudiadero de bioestadística y programación en R&amp;rdquo;. La experiencia incluyó invitados especiales como Dr Manuel Spinola y MSc David Martínez.</description>
+    </item>
+    
+    <item>
+      <title>Material de las reuniones/talleres</title>
+      <link>/post/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/post/go-is-for-lovers/</guid>
+      <description> Haga click sobre el subtítulo para acceder al material de cada uno de los talleres impartidos hasta el momento:
+ggplot2 básico Correlaciones Comparaciones entre grupos Análisis de Imágenes Digitales Planas </description>
+    </item>
+    
+  </channel>
+</rss>
